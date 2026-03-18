@@ -1,0 +1,52 @@
+[
+  {
+    "count": 100,
+    "name": "downtempo",
+    "url": "https://www.last.fm/tag/downtempo"
+  },
+  {
+    "count": 81,
+    "name": "trip-hop",
+    "url": "https://www.last.fm/tag/trip-hop"
+  },
+  {
+    "count": 46,
+    "name": "electronic",
+    "url": "https://www.last.fm/tag/electronic"
+  },
+  {
+    "count": 45,
+    "name": "chillout",
+    "url": "https://www.last.fm/tag/chillout"
+  },
+  {
+    "count": 21,
+    "name": "punk",
+    "url": "https://www.last.fm/tag/punk"
+  },
+  {
+    "count": 13,
+    "name": "swedish",
+    "url": "https://www.last.fm/tag/swedish"
+  },
+  {
+    "count": 10,
+    "name": "Swedish Punk",
+    "url": "https://www.last.fm/tag/Swedish+Punk"
+  },
+  {
+    "count": 3,
+    "name": "punk rock",
+    "url": "https://www.last.fm/tag/punk+rock"
+  },
+  {
+    "count": 2,
+    "name": "french",
+    "url": "https://www.last.fm/tag/french"
+  },
+  {
+    "count": 2,
+    "name": "rock",
+    "url": "https://www.last.fm/tag/rock"
+  }
+]

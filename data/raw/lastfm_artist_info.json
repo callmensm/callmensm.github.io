@@ -1,0 +1,227 @@
+{
+  "name": "Troublemakers",
+  "mbid": "7ef8570d-96aa-49a2-912b-8a1dc4cd1783",
+  "url": "https://www.last.fm/music/Troublemakers",
+  "image": [
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": "small"
+    },
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": "medium"
+    },
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": "large"
+    },
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": "extralarge"
+    },
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": "mega"
+    },
+    {
+      "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "size": ""
+    }
+  ],
+  "streamable": "0",
+  "ontour": "0",
+  "stats": {
+    "listeners": "170157",
+    "playcount": "1321394"
+  },
+  "similar": {
+    "artist": [
+      {
+        "name": "Sporto Kantès",
+        "url": "https://www.last.fm/music/Sporto+Kant%C3%A8s",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+          }
+        ]
+      },
+      {
+        "name": "Guts",
+        "url": "https://www.last.fm/music/Guts",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+          }
+        ]
+      },
+      {
+        "name": "TM Juke",
+        "url": "https://www.last.fm/music/TM+Juke",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+          }
+        ]
+      },
+      {
+        "name": "Degiheugi",
+        "url": "https://www.last.fm/music/Degiheugi",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+          }
+        ]
+      },
+      {
+        "name": "Alif Tree",
+        "url": "https://www.last.fm/music/Alif+Tree",
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+          }
+        ]
+      }
+    ]
+  },
+  "tags": {
+    "tag": [
+      {
+        "name": "downtempo",
+        "url": "https://www.last.fm/tag/downtempo"
+      },
+      {
+        "name": "trip-hop",
+        "url": "https://www.last.fm/tag/trip-hop"
+      },
+      {
+        "name": "electronic",
+        "url": "https://www.last.fm/tag/electronic"
+      },
+      {
+        "name": "chillout",
+        "url": "https://www.last.fm/tag/chillout"
+      },
+      {
+        "name": "punk",
+        "url": "https://www.last.fm/tag/punk"
+      }
+    ]
+  },
+  "bio": {
+    "links": {
+      "link": {
+        "#text": "",
+        "rel": "original",
+        "href": "https://last.fm/music/Troublemakers/+wiki"
+      }
+    },
+    "published": "23 May 2006, 22:07",
+    "summary": "There are, at least, two bands known as Troublemakers:\n\n1) A French trio\n2) A Swedish punk\n\n1) A French trio: Fred Berthet, Arnaud Taillefer & DJ Oil. They met, in 1998, at la Friche Belle (Marseille, France). Their appreciation for '60s / '70s jazz, funk & film scores - plus dance elements - produced a distinctive eclectic sound.\n\nTwo years in studio produced a début album - Doubts & Convictions (2001 on Guidance Recordings). Then, Fred departed, leaving a duo. <a href=\"https://www.last.fm/music/Troublemakers\">Read more on Last.fm</a>",
+    "content": "There are, at least, two bands known as Troublemakers:\n\n1) A French trio\n2) A Swedish punk\n\n1) A French trio: Fred Berthet, Arnaud Taillefer & DJ Oil. They met, in 1998, at la Friche Belle (Marseille, France). Their appreciation for '60s / '70s jazz, funk & film scores - plus dance elements - produced a distinctive eclectic sound.\n\nTwo years in studio produced a début album - Doubts & Convictions (2001 on Guidance Recordings). Then, Fred departed, leaving a duo. Next they produced a 52 min' film soundtrack - Express Way (filmed in Marseille, OST on Blue Note).\n\n2) A Swedish punk band originally formed in Gothenburg in 1981 with members from Perverts and Göteborg Sound. After a while the band split up in 1991, but reformed in 1995.\n\nMembers are (or have been) are Christer Blomgren (vocals), Arild \"Psychobilly\" Hanssen (guitar), Christian \"Elvis\" Odin (bass), Charlie Claeson (drums), Martin Hansson (drums), Jens Petersson (bass), Lars-Olof \"LOB\" Bengtsson (guitar), Dennis Johansson (bass), Jan Olof \"Esso\" Olsson (drums) and Anders Puke (bass).\n\nThey have a website at http://www.troublemakers.se. <a href=\"https://www.last.fm/music/Troublemakers\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+  }
+}

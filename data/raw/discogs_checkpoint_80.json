@@ -1,0 +1,2034 @@
+{
+  "artist_id": 210271,
+  "collected": 80,
+  "releases": [
+    {
+      "id": 1270,
+      "title": "Exodus E.P",
+      "year": 2000,
+      "country": "US",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Breaks",
+        "Trip Hop",
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Guidance Recordings",
+          "catno": "GDR070"
+        }
+      ],
+      "tracklist": 3,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 4689,
+      "title": "Pioneers Of The Universe",
+      "year": 1993,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "Acid"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Rising High Records",
+          "catno": "RSN 55"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "The Hypnotist"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 20052271,
+      "title": "Mix au Wax Bar le 06/01/01",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Downtempo",
+        "Breakbeat",
+        "Hip Hop",
+        "Soul",
+        "Future Jazz"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "PIAS France",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 1,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1773482,
+      "title": "Remixes & Refixes",
+      "year": 2009,
+      "country": "Netherlands",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hardcore",
+        "Gabber"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Megarave Records",
+          "catno": "ANGERRMX"
+        },
+        {
+          "name": "Masters Of Hardcore",
+          "catno": "ANGERRMX"
+        }
+      ],
+      "tracklist": 5,
+      "artists": [
+        "Angerfist"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 4702,
+      "title": "Madisons' Playground",
+      "year": 1997,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Deep House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Cross Section Records",
+          "catno": "C.S. 120"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "Retro Emotion"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 4710,
+      "title": "The Silicon Dawn",
+      "year": 1994,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "Deep Techno"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Peacefrog Records",
+          "catno": "PF018"
+        }
+      ],
+      "tracklist": 8,
+      "artists": [
+        "Dan Curtin"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 421174,
+      "title": "Express Way - Sampler 5 Titres",
+      "year": 2004,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catno": "7243 5 49481 2"
+        }
+      ],
+      "tracklist": 5,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 2997203,
+      "title": "Race Records / Everywhere Is My Home",
+      "year": 2004,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz"
+      ],
+      "styles": [
+        "Hip Hop"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catno": "0724354905568"
+        },
+        {
+          "name": "Capitol Records",
+          "catno": "0724354905568"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 3954442,
+      "title": "Every Day Is An Extension Of Yesterday",
+      "year": 2004,
+      "country": null,
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catno": "DFI 03"
+        }
+      ],
+      "tracklist": 1,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 4121322,
+      "title": "V 72",
+      "year": 2004,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Funk",
+        "Future Jazz"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catno": "07243 5490566 7"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Troublemakers"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 4720,
+      "title": "Discovery 1420 / Acid Cluster",
+      "year": 1995,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "Acid"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "i.t.p. recordings",
+          "catno": "ITP008"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Zargo",
+        "Da Hubble Cluster"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 555349,
+      "title": "Lick Choc'late",
+      "year": 2005,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Tech House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "U-Freqs",
+          "catno": "UFLP02 PART2"
+        }
+      ],
+      "tracklist": 3,
+      "artists": [
+        "Lick The Frog"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 219041,
+      "title": "Check It Out",
+      "year": 1994,
+      "country": "Belgium",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Trance",
+        "Tech House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "DiKi Records",
+          "catno": "DIKI 51.12.64"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Kinky Riba"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 193939,
+      "title": "Wiggle It (David Morales Remixes)",
+      "year": 1991,
+      "country": "Italy",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Acid House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Flying International",
+          "catno": "FIN 009 R"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "2 In A Room"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 422814,
+      "title": "Saturday (The Houseshaker Mixes)",
+      "year": 2005,
+      "country": "Germany",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Opaque Music",
+          "catno": "OPAQ 008"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "The 4 In Hands"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 1601555,
+      "title": "PINN",
+      "year": 1996,
+      "country": "Mexico",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Synth-pop",
+        "Euro House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catno": "CDMN 479945"
+        }
+      ],
+      "tracklist": 11,
+      "artists": [
+        "PINN"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 28753,
+      "title": "Message Personnel",
+      "year": 1999,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Heavenly",
+          "catno": "HVN91CD"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "Dot Allison"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 335404,
+      "title": "Postal EP",
+      "year": 2004,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Psychik Genocide",
+          "catno": "PKG 21"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "Cat Killers"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 2200156,
+      "title": "Do Ya Dirt",
+      "year": 2008,
+      "country": "Worldwide",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Gangsta"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Smokersblend",
+          "catno": "sb1215"
+        }
+      ],
+      "tracklist": 8,
+      "artists": [
+        "P-Lyve"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 19959781,
+      "title": "Crazy Afrobeat",
+      "year": 2016,
+      "country": "France",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Afrobeat"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Comet Records",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 15,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 759988,
+      "title": "The Conran Shop",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Future Jazz",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wagram Music",
+          "catno": "3071472"
+        },
+        {
+          "name": "Pschent",
+          "catno": "3071472"
+        },
+        {
+          "name": "Vsd",
+          "catno": "3071472"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "Aurore Leblanc"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 422814,
+      "title": "Saturday (The Houseshaker Mixes)",
+      "year": 2005,
+      "country": "Germany",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Opaque Music",
+          "catno": "OPAQ 008"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "The 4 In Hands"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 137955,
+      "title": "Mambo Italiano",
+      "year": 2000,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wonderboy",
+          "catno": "WBDJX 017"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Shaft"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 418532,
+      "title": "The Missing Peace By Shalom",
+      "year": 2005,
+      "country": "India",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Times Music",
+          "catno": "TDFWM 189C"
+        }
+      ],
+      "tracklist": 10,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 225480,
+      "title": "The Ultimate Lessons 2",
+      "year": 2002,
+      "country": "UK",
+      "genres": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "styles": [
+        "Breakbeat",
+        "Breaks",
+        "Cut-up/DJ"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Starchild Recordings",
+          "catno": "STAR 1309"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1371073,
+      "title": "H\u00f4tel Costes - 1999-2007 - The Anniversary Boxset",
+      "year": 2007,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Trip Hop",
+        "Jazzdance",
+        "House",
+        "Disco",
+        "Future Jazz",
+        "Deep House",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wagram Music",
+          "catno": "3126702"
+        }
+      ],
+      "tracklist": 161,
+      "artists": [
+        "St\u00e9phane Pompougnac"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 2227367,
+      "title": "Nu Afro (A Selection Of New Rare Tunes With An Afro Flavour)",
+      "year": 2007,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Downtempo",
+        "Tribal",
+        "Acid Jazz",
+        "Afrobeat",
+        "Future Jazz"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wagram Electronic",
+          "catno": "3125982"
+        }
+      ],
+      "tracklist": 30,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1496364,
+      "title": "Decisions",
+      "year": 2008,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Dubstep"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Tempa",
+          "catno": "TEMPA 036"
+        }
+      ],
+      "tracklist": 3,
+      "artists": [
+        "TRG"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1133225,
+      "title": "Music First",
+      "year": 2000,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock",
+        "Reggae",
+        "Latin",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Folk Rock",
+        "Pop Rock",
+        "Reggae",
+        "Cha-Cha",
+        "Hip Hop",
+        "Electro",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "PIAS France",
+          "catno": "PIASF 038 CD PROMO"
+        }
+      ],
+      "tracklist": 51,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 15741774,
+      "title": "Radio Groove Volume Two: French Revolution",
+      "year": 2000,
+      "country": "Australia",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Acid Jazz",
+        "House",
+        "Downtempo",
+        "Trip Hop",
+        "Jazzdance",
+        "Deep House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catno": "498603.2"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 240687,
+      "title": "Funny E.P.",
+      "year": 1996,
+      "country": "Switzerland",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hardcore",
+        "Gabber"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Toxic Records (3)",
+          "catno": "X005"
+        }
+      ],
+      "tracklist": 3,
+      "artists": [
+        "Wax (3)"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 138079,
+      "title": "Micronymph Vs Meganymph",
+      "year": 2002,
+      "country": "Canada",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "IDM",
+        "Electro",
+        "Experimental"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wikkid Records",
+          "catno": "WKD003"
+        }
+      ],
+      "tracklist": 3,
+      "artists": [
+        "David Kristian"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 10409,
+      "title": "21st Century Chill Out",
+      "year": 2001,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo",
+        "Trip Hop"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "React",
+          "catno": "REACTCD206"
+        }
+      ],
+      "tracklist": 36,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 87981,
+      "title": "The Classics Vol. One",
+      "year": 2001,
+      "country": "US",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Disco",
+        "Techno",
+        "Electro",
+        "Acid House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Revolution Magazine",
+          "catno": "R8"
+        },
+        {
+          "name": "Revolution Magazine",
+          "catno": "R8 I MARCH 2001"
+        }
+      ],
+      "tracklist": 26,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 147692,
+      "title": "Trax Sampler 038",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Techno"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Trax (9)",
+          "catno": "TRAX038"
+        }
+      ],
+      "tracklist": 8,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 215976,
+      "title": "Downbeat & Dubwise Mix",
+      "year": 2001,
+      "country": "New Zealand",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Leftfield",
+        "Dub",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Remix Magazine",
+          "catno": "PROMO CD 07"
+        }
+      ],
+      "tracklist": 18,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 224650,
+      "title": "Calming Park II",
+      "year": 2001,
+      "country": "Switzerland",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo",
+        "Future Jazz",
+        "Trip Hop"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Universal",
+          "catno": "585 556-2"
+        }
+      ],
+      "tracklist": 17,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 537760,
+      "title": "La Route Du Rock - La Compilation 2001",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Electro",
+        "Indie Rock"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "La Route Du Rock",
+          "catno": "RDR2001"
+        },
+        {
+          "name": "fnac.com",
+          "catno": "RDR2001"
+        }
+      ],
+      "tracklist": 13,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 669633,
+      "title": "Millenium Jazz Vol. 2",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Deep House",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "UCMG France",
+          "catno": "UC 032"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 759988,
+      "title": "The Conran Shop",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Future Jazz",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wagram Music",
+          "catno": "3071472"
+        },
+        {
+          "name": "Pschent",
+          "catno": "3071472"
+        },
+        {
+          "name": "Vsd",
+          "catno": "3071472"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "Aurore Leblanc"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 783121,
+      "title": "Objectif 2001 - Tome 2 - Les D\u00e9couvertes",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "styles": [
+        "Folk Rock",
+        "Chanson",
+        "Indie Rock",
+        "Future Jazz",
+        "Electro",
+        "Downtempo",
+        "Contemporary R&B"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Les Inrockuptibles",
+          "catno": "CD LI 01 35"
+        }
+      ],
+      "tracklist": 20,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1046038,
+      "title": "Music First",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Electro",
+        "Pop Rock"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "PIAS France",
+          "catno": "PIASF 059 CD PROMO"
+        }
+      ],
+      "tracklist": 37,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1818512,
+      "title": "Kaktus Discos # 6",
+      "year": 2001,
+      "country": "Poland",
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Techno",
+        "House",
+        "Breaks",
+        "Future Jazz",
+        "IDM",
+        "Post Rock",
+        "Ambient"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Kaktus (3)",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 6005398,
+      "title": "Caf\u00e9 Paradiso Vol.2 - All Star Chill Out",
+      "year": 2001,
+      "country": "Greece",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Future Jazz",
+        "Downtempo",
+        "Ambient"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Eros Music",
+          "catno": "90392"
+        }
+      ],
+      "tracklist": 26,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 14189880,
+      "title": "Lounge Excursions - Special Selection Down-Tempo & Deep- House",
+      "year": 2001,
+      "country": "Mexico",
+      "genres": [
+        "Electronic",
+        "Latin"
+      ],
+      "styles": [
+        "Downtempo",
+        "Deep House",
+        "Cha-Cha",
+        "Merengue",
+        "Latin",
+        "Electro",
+        "Cumbia"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "+Mas",
+          "catno": "CDX\u20222432"
+        },
+        {
+          "name": "BMG Dance",
+          "catno": "CDX\u20222432"
+        },
+        {
+          "name": "Ariola",
+          "catno": "CDX\u20222432"
+        }
+      ],
+      "tracklist": 33,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 15407875,
+      "title": "Acid Jazz Vol. 54",
+      "year": 2001,
+      "country": "Italy",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz"
+      ],
+      "styles": [
+        "Acid Jazz"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "New Sounds 2000",
+          "catno": "CNZ 054"
+        }
+      ],
+      "tracklist": 11,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 15529023,
+      "title": "Open Minded Music 2001",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "A Nous Paris",
+          "catno": "none"
+        },
+        {
+          "name": "[pias]",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 11,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 17234845,
+      "title": "Chanson - Canci\u00f3n En Franc\u00e9s - The World Of French Song - Can\u00e7oes Em Frances 05/2001",
+      "year": 2001,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Reggae"
+      ],
+      "styles": [
+        "Downtempo",
+        "Dub",
+        "Drum n Bass",
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "RFI Musique",
+          "catno": "01MCH05"
+        }
+      ],
+      "tracklist": 10,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 23068559,
+      "title": "Wahnsinns Hits",
+      "year": 2001,
+      "country": "Germany",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Pop"
+      ],
+      "styles": [
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Disky",
+          "catno": "GDO 646502"
+        }
+      ],
+      "tracklist": 33,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 228803,
+      "title": "Extinction Frequency",
+      "year": 2002,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro",
+        "Experimental",
+        "Industrial"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Earthrid",
+          "catno": "CA02CR"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "Carya Amara"
+      ],
+      "data_quality": "Correct"
+    },
+    {
+      "id": 137955,
+      "title": "Mambo Italiano",
+      "year": 2000,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wonderboy",
+          "catno": "WBDJX 017"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Shaft"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 418532,
+      "title": "The Missing Peace By Shalom",
+      "year": 2005,
+      "country": "India",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Times Music",
+          "catno": "TDFWM 189C"
+        }
+      ],
+      "tracklist": 10,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1639786,
+      "title": "Ice'n'Green (The Remix Album)",
+      "year": 1995,
+      "country": "South Korea",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hi NRG",
+        "Euro House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "YBM \uc11c\uc6b8\uc74c\ubc18",
+          "catno": "SVCD-9511"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "ICE MC"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1882989,
+      "title": "Ten Thousand Years From Now",
+      "year": 2000,
+      "country": "UK",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Indie Rock"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Fierce Panda",
+          "catno": "NING91"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Tim Allon"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 360791,
+      "title": "Future Electro Jazz",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Future Jazz",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Apricot Records",
+          "catno": "538 502 2"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 546355,
+      "title": "Sound & Pictures Marseille",
+      "year": 2002,
+      "country": "Germany",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock"
+      ],
+      "styles": [
+        "Lounge",
+        "Folk Rock",
+        "Techno",
+        "Experimental"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Mini International",
+          "catno": "# 5"
+        }
+      ],
+      "tracklist": 8,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 648134,
+      "title": "Le Son De La Grenouille Volume 1",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Trip Hop",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Wagram Music",
+          "catno": "3079402"
+        },
+        {
+          "name": "A\u00eflissam",
+          "catno": "3079402"
+        }
+      ],
+      "tracklist": 11,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 785717,
+      "title": "Une Rentr\u00e9e 2002 - Electro",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Leftfield",
+        "Acid Jazz",
+        "House",
+        "Dub",
+        "Electro",
+        "Downtempo",
+        "Experimental"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Les Inrockuptibles",
+          "catno": "CD LI 02 57"
+        }
+      ],
+      "tracklist": 15,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 995843,
+      "title": "Fiesta Des Suds",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Deep House",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Next Music",
+          "catno": "CDS 8974"
+        }
+      ],
+      "tracklist": 15,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1321972,
+      "title": "Mezzanine De L'Alcazar",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Mezzanine",
+          "catno": "MEZZA 2"
+        }
+      ],
+      "tracklist": 4,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 1500664,
+      "title": "Satisfaction Guaranteed",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "PIAS France",
+          "catno": "PIASF074CDPROMO"
+        }
+      ],
+      "tracklist": 40,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 3133397,
+      "title": "Madison (La Compil' Fashion)",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Absolute Sound",
+          "catno": "AS 198 788-2"
+        }
+      ],
+      "tracklist": 30,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 4322795,
+      "title": "Boarding Pass Vol.2",
+      "year": 2002,
+      "country": "Greece",
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Pop Rock",
+        "Alternative Rock",
+        "Ambient",
+        "Art Rock",
+        "Acoustic",
+        "Electroacoustic"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Eros Music",
+          "catno": "90452"
+        }
+      ],
+      "tracklist": 14,
+      "artists": [
+        "\u039c\u03ac\u03ba\u03b7\u03c2 \u039c\u03b7\u03bb\u03ac\u03c4\u03bf\u03c2"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 4343538,
+      "title": "One Night In Living Room - Volume II",
+      "year": 2002,
+      "country": "Greece",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo",
+        "Freestyle",
+        "House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Heaven Music",
+          "catno": "5 204958 801121"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 5977481,
+      "title": "10 Ans D'Esprit Ferarock",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Recall",
+          "catno": "7243 8 12168 2 8"
+        },
+        {
+          "name": "Ferarock",
+          "catno": "7243 8 12168 2 8"
+        }
+      ],
+      "tracklist": 25,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 7711478,
+      "title": "Destination Chicago - The Very Best Of Guidance Recordings",
+      "year": 2002,
+      "country": "Japan",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Deep House"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "P-Vine Records",
+          "catno": "PCD-23228"
+        }
+      ],
+      "tracklist": 12,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 12426165,
+      "title": "Aquaplaning Memories",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Aquaplaning",
+          "catno": "APCD 001"
+        }
+      ],
+      "tracklist": 13,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 13885470,
+      "title": "EMI Music Publishing Presents An Instrumental Sampler 12",
+      "year": 2002,
+      "country": "UK",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock"
+      ],
+      "styles": [
+        "IDM",
+        "Downtempo",
+        "Alternative Rock"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "EMI Music Publishing",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 20,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 14856599,
+      "title": "New Jazz Deluxe",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Jazz"
+      ],
+      "styles": [
+        "Downtempo",
+        "Hip Hop"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "EMI",
+          "catno": "7243 5378152 1"
+        }
+      ],
+      "tracklist": 28,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 20793094,
+      "title": "Sounds 5 / 6 ",
+      "year": 2002,
+      "country": "Europe",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Ambient",
+        "Downtempo",
+        "Trip Hop",
+        "Deep House",
+        "Nu-Disco",
+        "Future Jazz"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Hugo Boss",
+          "catno": "F/W 02"
+        }
+      ],
+      "tracklist": 27,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 29989360,
+      "title": "Festival Les Jeux - \u00c9ditions N\u00b05",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Not On Label",
+          "catno": "none"
+        }
+      ],
+      "tracklist": 38,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 32552775,
+      "title": "Sensation Pourpre - Voyage Musical Volume 1",
+      "year": 2002,
+      "country": "France",
+      "genres": [
+        "Electronic",
+        "Classical",
+        "Folk, World, & Country",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Electro"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "KT MUSIC (4)",
+          "catno": "50887662000"
+        }
+      ],
+      "tracklist": 26,
+      "artists": [
+        "Various"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 768916,
+      "title": "Talk To The Machine - Extended Machines",
+      "year": 2005,
+      "country": "Belgium",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Surprise Records",
+          "catno": "SURPRISE 026 LTD"
+        }
+      ],
+      "tracklist": 18,
+      "artists": [
+        "Nid & Sancy"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 3762069,
+      "title": "Im Just A Moonshine Man",
+      "year": 2012,
+      "country": "USA & Canada",
+      "genres": [
+        "Blues"
+      ],
+      "styles": [],
+      "formats": [],
+      "labels": [
+        {
+          "name": "One Global Universe Music",
+          "catno": "ogum-rock12-3"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Rockman Jackson"
+      ],
+      "data_quality": null
+    },
+    {
+      "id": 1705879,
+      "title": "Body Language / R\u00e8j",
+      "year": 2007,
+      "country": "France",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Progressive House",
+        "Minimal"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Happy Music",
+          "catno": "HAP 056-6"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "M.A.N.D.Y. vs. Booka Shade",
+        "\u00c2me"
+      ],
+      "data_quality": "Needs Vote"
+    },
+    {
+      "id": 155292,
+      "title": "Brain Basher / Rubbenut",
+      "year": 1999,
+      "country": "UK",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Bouncy Techno"
+      ],
+      "formats": [],
+      "labels": [
+        {
+          "name": "Twisted Vinyl",
+          "catno": "tv39"
+        }
+      ],
+      "tracklist": 2,
+      "artists": [
+        "Scott Brown"
+      ],
+      "data_quality": "Correct"
+    }
+  ]
+}

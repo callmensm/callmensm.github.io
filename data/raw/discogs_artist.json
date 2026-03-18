@@ -1,0 +1,58 @@
+{
+  "name": "Troublemakers",
+  "id": 210271,
+  "resource_url": "https://api.discogs.com/artists/210271",
+  "uri": "https://www.discogs.com/artist/210271-Troublemakers",
+  "releases_url": "https://api.discogs.com/artists/210271/releases",
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uns22142_brdgxP3k0Biew2B4cykaKGNPZ3NUaP-JMo/rs:fit/g:sm/q:90/h:266/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMDI3/MS0xMTg0MzMwNjgy/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/uns22142_brdgxP3k0Biew2B4cykaKGNPZ3NUaP-JMo/rs:fit/g:sm/q:90/h:266/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMDI3/MS0xMTg0MzMwNjgy/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/n6AIf68fXMcLZ__0AwTgLUOylonggnzvsZZ2wcHFkXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMDI3/MS0xMTg0MzMwNjgy/LmpwZWc.jpeg",
+      "width": 300,
+      "height": 266
+    }
+  ],
+  "profile": "Electronica DJ project from Marseille, France. ",
+  "urls": [
+    "https://en.wikipedia.org/wiki/Troublemakers_(French_band)"
+  ],
+  "namevariations": [
+    "The Troublemakers",
+    "Trouble Makers",
+    "Troublmakers"
+  ],
+  "aliases": [
+    {
+      "id": 215467,
+      "name": "Funky Serenity",
+      "resource_url": "https://api.discogs.com/artists/215467",
+      "thumbnail_url": ""
+    }
+  ],
+  "members": [
+    {
+      "id": 369560,
+      "name": "Fred Berthet",
+      "resource_url": "https://api.discogs.com/artists/369560",
+      "active": true,
+      "thumbnail_url": "https://i.discogs.com/AYO_QtqVDB-2QUXGYROxX1lBtE1L1Z4iLWJGR5awtmI/rs:fit/g:sm/q:40/h:785/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2OTU2/MC0xNDMwMTE2MTIx/LTExODQuanBlZw.jpeg"
+    },
+    {
+      "id": 675835,
+      "name": "Arnaud Taillefer",
+      "resource_url": "https://api.discogs.com/artists/675835",
+      "active": true,
+      "thumbnail_url": ""
+    },
+    {
+      "id": 716803,
+      "name": "Lionel Corsini",
+      "resource_url": "https://api.discogs.com/artists/716803",
+      "active": true,
+      "thumbnail_url": ""
+    }
+  ],
+  "data_quality": "Needs Vote"
+}

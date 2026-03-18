@@ -1,0 +1,442 @@
+{
+  "date": "2026-03-17T22:54:47.492920",
+  "spotify_api": [
+    {
+      "id": "1fvr9T1HgAq0fZvTLsWorn",
+      "name": "Troublemakers",
+      "popularity": "N/A",
+      "followers": 0,
+      "genres": [],
+      "albums": [
+        {
+          "name": "Doubts And Convictions (Remastered)",
+          "release_date": "2018-10-12",
+          "total_tracks": 12,
+          "id": "7t9HJhKr56Fv4HgCLm18vh"
+        }
+      ],
+      "top_tracks": []
+    },
+    {
+      "id": "5S3eSWS016zjlntNWk8jEf",
+      "name": "Troublemakers",
+      "popularity": "N/A",
+      "followers": 0,
+      "genres": [],
+      "albums": [
+        {
+          "name": "Express way",
+          "release_date": "2004-06-13",
+          "total_tracks": 16,
+          "id": "2cZVWaXW87SJFmM4pF5i8Y"
+        },
+        {
+          "name": "Time to Say Goodbye",
+          "release_date": "2001-11-19",
+          "total_tracks": 3,
+          "id": "6e4g2lwbSYlGytDDZlQQxC"
+        },
+        {
+          "name": "Living in Your Head",
+          "release_date": "2001-09-03",
+          "total_tracks": 3,
+          "id": "1NOyfysciiUXlqXokavvYR"
+        },
+        {
+          "name": "H\u00f4tel Costes 3 - Etage 3",
+          "release_date": "2000-10-31",
+          "total_tracks": 14,
+          "id": "3Vy4Btg2fBdqXq5qYpdPlF"
+        },
+        {
+          "name": "Barcelona - Paris. 2nd Flight (Select and Mixed by David De Barce)",
+          "release_date": "2013-10-29",
+          "total_tracks": 13,
+          "id": "4Ri6kyr438ViXIMFEU53nN"
+        },
+        {
+          "name": "Comet Series, Vol. 1 (Crazy Afrobeat)",
+          "release_date": "2016-08-24",
+          "total_tracks": 15,
+          "id": "0IxqnPvRDvXUooHFhZAaul"
+        },
+        {
+          "name": "Hip Hop State of Mind",
+          "release_date": "2022-12-16",
+          "total_tracks": 25,
+          "id": "7mPmacGPpdezwi4WlsN3px"
+        },
+        {
+          "name": "Ann\u00e9es 2000",
+          "release_date": "2021-08-13",
+          "total_tracks": 40,
+          "id": "50jfZ1sN0beYFHNas6UAPr"
+        },
+        {
+          "name": "Makina",
+          "release_date": "2025-12-10",
+          "total_tracks": 33,
+          "id": "6cO54WCdSDfethROuVVGXX"
+        },
+        {
+          "name": "Makina Forever, Vol. 1 (Los Temas M\u00e1s Ca\u00f1eros del Momento)",
+          "release_date": "2002-02-11",
+          "total_tracks": 23,
+          "id": "2WJJQz7FKS6ghBltRgPvCK"
+        },
+        {
+          "name": "Son de la banlieue",
+          "release_date": "2019-08-23",
+          "total_tracks": 30,
+          "id": "11ukxU7LY4m0VkorQPtgol"
+        },
+        {
+          "name": "Funky Hip-Hop",
+          "release_date": "2022-07-01",
+          "total_tracks": 25,
+          "id": "47h0xdGFRdOrgWnjPJKqk3"
+        },
+        {
+          "name": "Ann\u00e9es 00",
+          "release_date": "2022-06-10",
+          "total_tracks": 30,
+          "id": "1NthUio2VMqhFDZlKoEuud"
+        },
+        {
+          "name": "Caf\u00e9 Montmartre",
+          "release_date": "2020-07-10",
+          "total_tracks": 28,
+          "id": "0OYPqCL3IVxNLP3GBcu5Mt"
+        },
+        {
+          "name": "Tubes Ann\u00e9es 00",
+          "release_date": "2021-04-23",
+          "total_tracks": 54,
+          "id": "20BcZmx7wD0Vc57RJhH4jP"
+        },
+        {
+          "name": "Hits Fran\u00e7ais: French Hits",
+          "release_date": "2020-07-10",
+          "total_tracks": 39,
+          "id": "2YU6kQYX78IYyvonW4CLQL"
+        },
+        {
+          "name": "Blue Monday: Electronic Melancholy",
+          "release_date": "2020-03-06",
+          "total_tracks": 27,
+          "id": "3wHckwiMcwixPZ0fcfUrWz"
+        },
+        {
+          "name": "00s Electronic",
+          "release_date": "2022-04-15",
+          "total_tracks": 25,
+          "id": "09OcpTgWnFDDIJO0xaCmsh"
+        },
+        {
+          "name": "Cinemix Vol 1",
+          "release_date": "2003-01-01",
+          "total_tracks": 18,
+          "id": "2PhAM7hvHf8WhHIAEJf44K"
+        },
+        {
+          "name": "Les plus grands succ\u00e8s de la pop",
+          "release_date": "2020-07-10",
+          "total_tracks": 28,
+          "id": "3jc5JhHkndJXgRU7Wg2A11"
+        },
+        {
+          "name": "Dance muy loco",
+          "release_date": "2026-01-20",
+          "total_tracks": 28,
+          "id": "0wc8AG9cvfVvHXKd3STrLA"
+        },
+        {
+          "name": "Global Hip Hop",
+          "release_date": "2017-10-27",
+          "total_tracks": 30,
+          "id": "1F75xLoeOrhZgFemyDmDXn"
+        },
+        {
+          "name": "Troublemakers, Vol. 2",
+          "release_date": "2021-01-22",
+          "total_tracks": 17,
+          "id": "2o5LGChsZr7SWedGAhhW6w"
+        },
+        {
+          "name": "The D.U.S.T. Prophecy",
+          "release_date": "1998-01-01",
+          "total_tracks": 15,
+          "id": "5jkRhZtMdEyyAuwIDgkQ3Z"
+        },
+        {
+          "name": "After Hours: Electronic",
+          "release_date": "2020-05-01",
+          "total_tracks": 25,
+          "id": "65VyPBJ5XssEG2HucKdn91"
+        },
+        {
+          "name": "13 Tzameti (Bande Originale Du Film)",
+          "release_date": "2006-02-01",
+          "total_tracks": 16,
+          "id": "4AUrwoFROhbvrX43VPyE8z"
+        },
+        {
+          "name": "L'Usina Remix",
+          "release_date": "2001-04-13",
+          "total_tracks": 7,
+          "id": "5EmWQtKlZDfFEtDnbfmbm0"
+        },
+        {
+          "name": "Vive L'Electronica!",
+          "release_date": "2020-07-10",
+          "total_tracks": 29,
+          "id": "6WqCbf19rKVoz6c5wtLJTY"
+        },
+        {
+          "name": "Les plus grands succ\u00e8s de la pop",
+          "release_date": "2020-10-09",
+          "total_tracks": 26,
+          "id": "6DrdzfbKvJ1jmVudGHH2yz"
+        },
+        {
+          "name": "Do Ya Dirt (Remixed)",
+          "release_date": "2018-12-28",
+          "total_tracks": 7,
+          "id": "4JaPUQyWajOXGgRdKfrrjM"
+        },
+        {
+          "name": "Superbe!",
+          "release_date": "2020-03-13",
+          "total_tracks": 29,
+          "id": "2KdGteLSk5u47CKC3ktbAv"
+        }
+      ],
+      "top_tracks": []
+    }
+  ],
+  "manual_stats": {
+    "followers": 2459,
+    "monthly_listeners": 15529,
+    "top_cities": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "listeners": 765
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "listeners": 650
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "listeners": 408
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "listeners": 257
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "listeners": 188
+      }
+    ]
+  },
+  "combined_albums": [
+    {
+      "name": "Doubts And Convictions (Remastered)",
+      "release_date": "2018-10-12",
+      "total_tracks": 12,
+      "id": "7t9HJhKr56Fv4HgCLm18vh"
+    },
+    {
+      "name": "Express way",
+      "release_date": "2004-06-13",
+      "total_tracks": 16,
+      "id": "2cZVWaXW87SJFmM4pF5i8Y"
+    },
+    {
+      "name": "Time to Say Goodbye",
+      "release_date": "2001-11-19",
+      "total_tracks": 3,
+      "id": "6e4g2lwbSYlGytDDZlQQxC"
+    },
+    {
+      "name": "Living in Your Head",
+      "release_date": "2001-09-03",
+      "total_tracks": 3,
+      "id": "1NOyfysciiUXlqXokavvYR"
+    },
+    {
+      "name": "H\u00f4tel Costes 3 - Etage 3",
+      "release_date": "2000-10-31",
+      "total_tracks": 14,
+      "id": "3Vy4Btg2fBdqXq5qYpdPlF"
+    },
+    {
+      "name": "Barcelona - Paris. 2nd Flight (Select and Mixed by David De Barce)",
+      "release_date": "2013-10-29",
+      "total_tracks": 13,
+      "id": "4Ri6kyr438ViXIMFEU53nN"
+    },
+    {
+      "name": "Comet Series, Vol. 1 (Crazy Afrobeat)",
+      "release_date": "2016-08-24",
+      "total_tracks": 15,
+      "id": "0IxqnPvRDvXUooHFhZAaul"
+    },
+    {
+      "name": "Hip Hop State of Mind",
+      "release_date": "2022-12-16",
+      "total_tracks": 25,
+      "id": "7mPmacGPpdezwi4WlsN3px"
+    },
+    {
+      "name": "Ann\u00e9es 2000",
+      "release_date": "2021-08-13",
+      "total_tracks": 40,
+      "id": "50jfZ1sN0beYFHNas6UAPr"
+    },
+    {
+      "name": "Makina",
+      "release_date": "2025-12-10",
+      "total_tracks": 33,
+      "id": "6cO54WCdSDfethROuVVGXX"
+    },
+    {
+      "name": "Makina Forever, Vol. 1 (Los Temas M\u00e1s Ca\u00f1eros del Momento)",
+      "release_date": "2002-02-11",
+      "total_tracks": 23,
+      "id": "2WJJQz7FKS6ghBltRgPvCK"
+    },
+    {
+      "name": "Son de la banlieue",
+      "release_date": "2019-08-23",
+      "total_tracks": 30,
+      "id": "11ukxU7LY4m0VkorQPtgol"
+    },
+    {
+      "name": "Funky Hip-Hop",
+      "release_date": "2022-07-01",
+      "total_tracks": 25,
+      "id": "47h0xdGFRdOrgWnjPJKqk3"
+    },
+    {
+      "name": "Ann\u00e9es 00",
+      "release_date": "2022-06-10",
+      "total_tracks": 30,
+      "id": "1NthUio2VMqhFDZlKoEuud"
+    },
+    {
+      "name": "Caf\u00e9 Montmartre",
+      "release_date": "2020-07-10",
+      "total_tracks": 28,
+      "id": "0OYPqCL3IVxNLP3GBcu5Mt"
+    },
+    {
+      "name": "Tubes Ann\u00e9es 00",
+      "release_date": "2021-04-23",
+      "total_tracks": 54,
+      "id": "20BcZmx7wD0Vc57RJhH4jP"
+    },
+    {
+      "name": "Hits Fran\u00e7ais: French Hits",
+      "release_date": "2020-07-10",
+      "total_tracks": 39,
+      "id": "2YU6kQYX78IYyvonW4CLQL"
+    },
+    {
+      "name": "Blue Monday: Electronic Melancholy",
+      "release_date": "2020-03-06",
+      "total_tracks": 27,
+      "id": "3wHckwiMcwixPZ0fcfUrWz"
+    },
+    {
+      "name": "00s Electronic",
+      "release_date": "2022-04-15",
+      "total_tracks": 25,
+      "id": "09OcpTgWnFDDIJO0xaCmsh"
+    },
+    {
+      "name": "Cinemix Vol 1",
+      "release_date": "2003-01-01",
+      "total_tracks": 18,
+      "id": "2PhAM7hvHf8WhHIAEJf44K"
+    },
+    {
+      "name": "Les plus grands succ\u00e8s de la pop",
+      "release_date": "2020-07-10",
+      "total_tracks": 28,
+      "id": "3jc5JhHkndJXgRU7Wg2A11"
+    },
+    {
+      "name": "Dance muy loco",
+      "release_date": "2026-01-20",
+      "total_tracks": 28,
+      "id": "0wc8AG9cvfVvHXKd3STrLA"
+    },
+    {
+      "name": "Global Hip Hop",
+      "release_date": "2017-10-27",
+      "total_tracks": 30,
+      "id": "1F75xLoeOrhZgFemyDmDXn"
+    },
+    {
+      "name": "Troublemakers, Vol. 2",
+      "release_date": "2021-01-22",
+      "total_tracks": 17,
+      "id": "2o5LGChsZr7SWedGAhhW6w"
+    },
+    {
+      "name": "The D.U.S.T. Prophecy",
+      "release_date": "1998-01-01",
+      "total_tracks": 15,
+      "id": "5jkRhZtMdEyyAuwIDgkQ3Z"
+    },
+    {
+      "name": "After Hours: Electronic",
+      "release_date": "2020-05-01",
+      "total_tracks": 25,
+      "id": "65VyPBJ5XssEG2HucKdn91"
+    },
+    {
+      "name": "13 Tzameti (Bande Originale Du Film)",
+      "release_date": "2006-02-01",
+      "total_tracks": 16,
+      "id": "4AUrwoFROhbvrX43VPyE8z"
+    },
+    {
+      "name": "L'Usina Remix",
+      "release_date": "2001-04-13",
+      "total_tracks": 7,
+      "id": "5EmWQtKlZDfFEtDnbfmbm0"
+    },
+    {
+      "name": "Vive L'Electronica!",
+      "release_date": "2020-07-10",
+      "total_tracks": 29,
+      "id": "6WqCbf19rKVoz6c5wtLJTY"
+    },
+    {
+      "name": "Les plus grands succ\u00e8s de la pop",
+      "release_date": "2020-10-09",
+      "total_tracks": 26,
+      "id": "6DrdzfbKvJ1jmVudGHH2yz"
+    },
+    {
+      "name": "Do Ya Dirt (Remixed)",
+      "release_date": "2018-12-28",
+      "total_tracks": 7,
+      "id": "4JaPUQyWajOXGgRdKfrrjM"
+    },
+    {
+      "name": "Superbe!",
+      "release_date": "2020-03-13",
+      "total_tracks": 29,
+      "id": "2KdGteLSk5u47CKC3ktbAv"
+    }
+  ]
+}

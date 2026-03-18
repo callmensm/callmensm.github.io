@@ -1,0 +1,1192 @@
+[
+  {
+    "release_id": 1270,
+    "have": 319,
+    "want": 160,
+    "rating_avg": 3.73,
+    "rating_count": 49
+  },
+  {
+    "release_id": 4689,
+    "have": 673,
+    "want": 481,
+    "rating_avg": 4.37,
+    "rating_count": 148
+  },
+  {
+    "release_id": 20052271,
+    "have": 1,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 1773482,
+    "have": 60,
+    "want": 13,
+    "rating_avg": 4.09,
+    "rating_count": 22
+  },
+  {
+    "release_id": 4702,
+    "have": 223,
+    "want": 239,
+    "rating_avg": 4.47,
+    "rating_count": 36
+  },
+  {
+    "release_id": 4710,
+    "have": 525,
+    "want": 1290,
+    "rating_avg": 4.5,
+    "rating_count": 135
+  },
+  {
+    "release_id": 421174,
+    "have": 4,
+    "want": 3,
+    "rating_avg": 3.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 2997203,
+    "have": 44,
+    "want": 28,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 3954442,
+    "have": 52,
+    "want": 26,
+    "rating_avg": 4.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 4121322,
+    "have": 45,
+    "want": 26,
+    "rating_avg": 3.86,
+    "rating_count": 7
+  },
+  {
+    "release_id": 4720,
+    "have": 222,
+    "want": 338,
+    "rating_avg": 3.88,
+    "rating_count": 41
+  },
+  {
+    "release_id": 555349,
+    "have": 137,
+    "want": 296,
+    "rating_avg": 3.71,
+    "rating_count": 17
+  },
+  {
+    "release_id": 219041,
+    "have": 49,
+    "want": 36,
+    "rating_avg": 2.43,
+    "rating_count": 7
+  },
+  {
+    "release_id": 193939,
+    "have": 184,
+    "want": 115,
+    "rating_avg": 3.83,
+    "rating_count": 23
+  },
+  {
+    "release_id": 422814,
+    "have": 78,
+    "want": 57,
+    "rating_avg": 3.85,
+    "rating_count": 13
+  },
+  {
+    "release_id": 1601555,
+    "have": 21,
+    "want": 10,
+    "rating_avg": 4.0,
+    "rating_count": 9
+  },
+  {
+    "release_id": 28753,
+    "have": 127,
+    "want": 26,
+    "rating_avg": 4.14,
+    "rating_count": 7
+  },
+  {
+    "release_id": 335404,
+    "have": 505,
+    "want": 210,
+    "rating_avg": 4.31,
+    "rating_count": 84
+  },
+  {
+    "release_id": 2200156,
+    "have": 2,
+    "want": 1,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 19959781,
+    "have": 3,
+    "want": 3,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 759988,
+    "have": 87,
+    "want": 37,
+    "rating_avg": 3.91,
+    "rating_count": 11
+  },
+  {
+    "release_id": 422814,
+    "have": 78,
+    "want": 57,
+    "rating_avg": 3.85,
+    "rating_count": 13
+  },
+  {
+    "release_id": 137955,
+    "have": 177,
+    "want": 33,
+    "rating_avg": 4.12,
+    "rating_count": 17
+  },
+  {
+    "release_id": 418532,
+    "have": 13,
+    "want": 27,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 225480,
+    "have": 276,
+    "want": 73,
+    "rating_avg": 4.28,
+    "rating_count": 32
+  },
+  {
+    "release_id": 1371073,
+    "have": 198,
+    "want": 226,
+    "rating_avg": 4.65,
+    "rating_count": 34
+  },
+  {
+    "release_id": 2227367,
+    "have": 82,
+    "want": 48,
+    "rating_avg": 4.53,
+    "rating_count": 15
+  },
+  {
+    "release_id": 1496364,
+    "have": 79,
+    "want": 116,
+    "rating_avg": 4.36,
+    "rating_count": 11
+  },
+  {
+    "release_id": 1133225,
+    "have": 20,
+    "want": 17,
+    "rating_avg": 3.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 15741774,
+    "have": 11,
+    "want": 3,
+    "rating_avg": 3.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 240687,
+    "have": 112,
+    "want": 121,
+    "rating_avg": 3.59,
+    "rating_count": 29
+  },
+  {
+    "release_id": 138079,
+    "have": 58,
+    "want": 47,
+    "rating_avg": 4.59,
+    "rating_count": 17
+  },
+  {
+    "release_id": 10409,
+    "have": 96,
+    "want": 31,
+    "rating_avg": 4.23,
+    "rating_count": 13
+  },
+  {
+    "release_id": 87981,
+    "have": 122,
+    "want": 32,
+    "rating_avg": 3.83,
+    "rating_count": 24
+  },
+  {
+    "release_id": 147692,
+    "have": 113,
+    "want": 14,
+    "rating_avg": 3.22,
+    "rating_count": 9
+  },
+  {
+    "release_id": 215976,
+    "have": 13,
+    "want": 7,
+    "rating_avg": 4.8,
+    "rating_count": 5
+  },
+  {
+    "release_id": 224650,
+    "have": 34,
+    "want": 8,
+    "rating_avg": 3.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 537760,
+    "have": 38,
+    "want": 8,
+    "rating_avg": 3.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 669633,
+    "have": 41,
+    "want": 12,
+    "rating_avg": 3.0,
+    "rating_count": 5
+  },
+  {
+    "release_id": 759988,
+    "have": 87,
+    "want": 37,
+    "rating_avg": 3.91,
+    "rating_count": 11
+  },
+  {
+    "release_id": 783121,
+    "have": 254,
+    "want": 7,
+    "rating_avg": 3.42,
+    "rating_count": 12
+  },
+  {
+    "release_id": 1046038,
+    "have": 20,
+    "want": 15,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 1818512,
+    "have": 18,
+    "want": 13,
+    "rating_avg": 4.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 6005398,
+    "have": 21,
+    "want": 5,
+    "rating_avg": 3.0,
+    "rating_count": 3
+  },
+  {
+    "release_id": 14189880,
+    "have": 4,
+    "want": 3,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 15407875,
+    "have": 19,
+    "want": 4,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 15529023,
+    "have": 6,
+    "want": 3,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 17234845,
+    "have": 1,
+    "want": 1,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 23068559,
+    "have": 4,
+    "want": 1,
+    "rating_avg": 3.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 228803,
+    "have": 5,
+    "want": 1,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 137955,
+    "have": 177,
+    "want": 33,
+    "rating_avg": 4.12,
+    "rating_count": 17
+  },
+  {
+    "release_id": 418532,
+    "have": 13,
+    "want": 27,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 1639786,
+    "have": 5,
+    "want": 27,
+    "rating_avg": 5.0,
+    "rating_count": 3
+  },
+  {
+    "release_id": 1882989,
+    "have": 55,
+    "want": 3,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 360791,
+    "have": 27,
+    "want": 17,
+    "rating_avg": 4.67,
+    "rating_count": 6
+  },
+  {
+    "release_id": 546355,
+    "have": 18,
+    "want": 3,
+    "rating_avg": 3.67,
+    "rating_count": 3
+  },
+  {
+    "release_id": 648134,
+    "have": 16,
+    "want": 15,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 785717,
+    "have": 222,
+    "want": 6,
+    "rating_avg": 3.59,
+    "rating_count": 17
+  },
+  {
+    "release_id": 995843,
+    "have": 10,
+    "want": 0,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 1321972,
+    "have": 22,
+    "want": 25,
+    "rating_avg": 4.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 1500664,
+    "have": 14,
+    "want": 5,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 3133397,
+    "have": 27,
+    "want": 9,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 4322795,
+    "have": 23,
+    "want": 8,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 4343538,
+    "have": 8,
+    "want": 4,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 5977481,
+    "have": 56,
+    "want": 3,
+    "rating_avg": 3.5,
+    "rating_count": 6
+  },
+  {
+    "release_id": 7711478,
+    "have": 6,
+    "want": 12,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 12426165,
+    "have": 11,
+    "want": 2,
+    "rating_avg": 4.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 13885470,
+    "have": 2,
+    "want": 8,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 14856599,
+    "have": 29,
+    "want": 7,
+    "rating_avg": 4.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 20793094,
+    "have": 2,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 29989360,
+    "have": 1,
+    "want": 1,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 32552775,
+    "have": 2,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 768916,
+    "have": 51,
+    "want": 7,
+    "rating_avg": 4.2,
+    "rating_count": 5
+  },
+  {
+    "release_id": 3762069,
+    "have": 1,
+    "want": 0,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 1705879,
+    "have": 61,
+    "want": 158,
+    "rating_avg": 4.88,
+    "rating_count": 8
+  },
+  {
+    "release_id": 155292,
+    "have": 64,
+    "want": 128,
+    "rating_avg": 4.04,
+    "rating_count": 23
+  },
+  {
+    "release_id": 542147,
+    "have": 50,
+    "want": 79,
+    "rating_avg": 4.5,
+    "rating_count": 6
+  },
+  {
+    "release_id": 107844,
+    "have": 92,
+    "want": 25,
+    "rating_avg": 4.0,
+    "rating_count": 14
+  },
+  {
+    "release_id": 3737799,
+    "have": 30,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 1338072,
+    "have": 966,
+    "want": 678,
+    "rating_avg": 4.55,
+    "rating_count": 69
+  },
+  {
+    "release_id": 863220,
+    "have": 399,
+    "want": 54,
+    "rating_avg": 3.58,
+    "rating_count": 36
+  },
+  {
+    "release_id": 184162,
+    "have": 138,
+    "want": 13,
+    "rating_avg": 3.85,
+    "rating_count": 13
+  },
+  {
+    "release_id": 398977,
+    "have": 65,
+    "want": 69,
+    "rating_avg": 4.0,
+    "rating_count": 7
+  },
+  {
+    "release_id": 744722,
+    "have": 52,
+    "want": 12,
+    "rating_avg": 4.0,
+    "rating_count": 9
+  },
+  {
+    "release_id": 1079622,
+    "have": 37,
+    "want": 19,
+    "rating_avg": 3.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 1123565,
+    "have": 64,
+    "want": 25,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 1172589,
+    "have": 16,
+    "want": 2,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 1634176,
+    "have": 58,
+    "want": 12,
+    "rating_avg": 4.4,
+    "rating_count": 5
+  },
+  {
+    "release_id": 2571978,
+    "have": 16,
+    "want": 9,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 3264485,
+    "have": 14,
+    "want": 6,
+    "rating_avg": 3.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 6133346,
+    "have": 11,
+    "want": 5,
+    "rating_avg": 4.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 10615748,
+    "have": 21,
+    "want": 10,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 12842124,
+    "have": 8,
+    "want": 9,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 12921831,
+    "have": 4,
+    "want": 0,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 13576565,
+    "have": 13,
+    "want": 7,
+    "rating_avg": 4.67,
+    "rating_count": 3
+  },
+  {
+    "release_id": 18126772,
+    "have": 6,
+    "want": 7,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 34084294,
+    "have": 0,
+    "want": 1,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 88870,
+    "have": 79,
+    "want": 105,
+    "rating_avg": 3.59,
+    "rating_count": 17
+  },
+  {
+    "release_id": 279464,
+    "have": 176,
+    "want": 103,
+    "rating_avg": 3.57,
+    "rating_count": 30
+  },
+  {
+    "release_id": 28753,
+    "have": 127,
+    "want": 26,
+    "rating_avg": 4.14,
+    "rating_count": 7
+  },
+  {
+    "release_id": 140259,
+    "have": 184,
+    "want": 133,
+    "rating_avg": 4.64,
+    "rating_count": 33
+  },
+  {
+    "release_id": 2263537,
+    "have": 5,
+    "want": 14,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 3623933,
+    "have": 37,
+    "want": 7,
+    "rating_avg": 3.67,
+    "rating_count": 3
+  },
+  {
+    "release_id": 338881,
+    "have": 4,
+    "want": 7,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 351939,
+    "have": 18,
+    "want": 5,
+    "rating_avg": 1.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 360262,
+    "have": 10,
+    "want": 12,
+    "rating_avg": 4.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 773408,
+    "have": 137,
+    "want": 22,
+    "rating_avg": 3.91,
+    "rating_count": 11
+  },
+  {
+    "release_id": 876634,
+    "have": 101,
+    "want": 8,
+    "rating_avg": 3.29,
+    "rating_count": 7
+  },
+  {
+    "release_id": 1330716,
+    "have": 31,
+    "want": 23,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 1488549,
+    "have": 16,
+    "want": 7,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 1975233,
+    "have": 25,
+    "want": 3,
+    "rating_avg": 4.5,
+    "rating_count": 2
+  },
+  {
+    "release_id": 2080282,
+    "have": 1,
+    "want": 0,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 3084406,
+    "have": 6,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 3157644,
+    "have": 63,
+    "want": 7,
+    "rating_avg": 3.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 3892407,
+    "have": 67,
+    "want": 2,
+    "rating_avg": 4.5,
+    "rating_count": 4
+  },
+  {
+    "release_id": 7113642,
+    "have": 5,
+    "want": 7,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 10398449,
+    "have": 5,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 11580254,
+    "have": 8,
+    "want": 4,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 19974652,
+    "have": 2,
+    "want": 4,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 225480,
+    "have": 276,
+    "want": 73,
+    "rating_avg": 4.28,
+    "rating_count": 32
+  },
+  {
+    "release_id": 575432,
+    "have": 71,
+    "want": 25,
+    "rating_avg": 4.43,
+    "rating_count": 7
+  },
+  {
+    "release_id": 895611,
+    "have": 20,
+    "want": 14,
+    "rating_avg": 4.67,
+    "rating_count": 3
+  },
+  {
+    "release_id": 951739,
+    "have": 186,
+    "want": 33,
+    "rating_avg": 3.93,
+    "rating_count": 15
+  },
+  {
+    "release_id": 3412469,
+    "have": 28,
+    "want": 5,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 10728689,
+    "have": 4,
+    "want": 1,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 13991651,
+    "have": 61,
+    "want": 3,
+    "rating_avg": 4.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 15240465,
+    "have": 5,
+    "want": 1,
+    "rating_avg": 5.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 31360726,
+    "have": 2,
+    "want": 0,
+    "rating_avg": 4.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 903331,
+    "have": 2,
+    "want": 1,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 311495,
+    "have": 173,
+    "want": 138,
+    "rating_avg": 4.28,
+    "rating_count": 32
+  },
+  {
+    "release_id": 1586799,
+    "have": 36,
+    "want": 63,
+    "rating_avg": 4.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 2374722,
+    "have": 37,
+    "want": 24,
+    "rating_avg": 3.6,
+    "rating_count": 5
+  },
+  {
+    "release_id": 5562598,
+    "have": 18,
+    "want": 4,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 10585845,
+    "have": 13,
+    "want": 17,
+    "rating_avg": 5.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 22769804,
+    "have": 7,
+    "want": 5,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 27005784,
+    "have": 5,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 800173,
+    "have": 37,
+    "want": 85,
+    "rating_avg": 4.36,
+    "rating_count": 14
+  },
+  {
+    "release_id": 1368341,
+    "have": 122,
+    "want": 130,
+    "rating_avg": 4.15,
+    "rating_count": 20
+  },
+  {
+    "release_id": 1371073,
+    "have": 198,
+    "want": 226,
+    "rating_avg": 4.65,
+    "rating_count": 34
+  },
+  {
+    "release_id": 2227367,
+    "have": 82,
+    "want": 48,
+    "rating_avg": 4.53,
+    "rating_count": 15
+  },
+  {
+    "release_id": 9521224,
+    "have": 22,
+    "want": 0,
+    "rating_avg": 4.8,
+    "rating_count": 5
+  },
+  {
+    "release_id": 10601128,
+    "have": 14,
+    "want": 4,
+    "rating_avg": 3.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 26091592,
+    "have": 1,
+    "want": 0,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 28222267,
+    "have": 5,
+    "want": 1,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 1716997,
+    "have": 132,
+    "want": 7,
+    "rating_avg": 3.5,
+    "rating_count": 6
+  },
+  {
+    "release_id": 279463,
+    "have": 1,
+    "want": 0,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 617176,
+    "have": 94,
+    "want": 6,
+    "rating_avg": 3.2,
+    "rating_count": 5
+  },
+  {
+    "release_id": 1615572,
+    "have": 52,
+    "want": 21,
+    "rating_avg": 4.75,
+    "rating_count": 4
+  },
+  {
+    "release_id": 1623500,
+    "have": 4,
+    "want": 3,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 2641641,
+    "have": 20,
+    "want": 3,
+    "rating_avg": 3.67,
+    "rating_count": 3
+  },
+  {
+    "release_id": 2822976,
+    "have": 17,
+    "want": 10,
+    "rating_avg": 3.33,
+    "rating_count": 3
+  },
+  {
+    "release_id": 6271506,
+    "have": 18,
+    "want": 14,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 7842375,
+    "have": 32,
+    "want": 1,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 673790,
+    "have": 1,
+    "want": 0,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 2183624,
+    "have": 89,
+    "want": 69,
+    "rating_avg": 4.44,
+    "rating_count": 9
+  },
+  {
+    "release_id": 2679029,
+    "have": 102,
+    "want": 101,
+    "rating_avg": 4.53,
+    "rating_count": 19
+  },
+  {
+    "release_id": 22360309,
+    "have": 0,
+    "want": 0,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 8417021,
+    "have": 48,
+    "want": 408,
+    "rating_avg": 4.93,
+    "rating_count": 15
+  },
+  {
+    "release_id": 4322089,
+    "have": 90,
+    "want": 145,
+    "rating_avg": 4.57,
+    "rating_count": 14
+  },
+  {
+    "release_id": 10269930,
+    "have": 23,
+    "want": 5,
+    "rating_avg": 4.0,
+    "rating_count": 2
+  },
+  {
+    "release_id": 6133471,
+    "have": 11,
+    "want": 5,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 14354794,
+    "have": 1,
+    "want": 2,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 14798083,
+    "have": 0,
+    "want": 0,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 240687,
+    "have": 112,
+    "want": 121,
+    "rating_avg": 3.59,
+    "rating_count": 29
+  },
+  {
+    "release_id": 4689,
+    "have": 673,
+    "want": 481,
+    "rating_avg": 4.37,
+    "rating_count": 148
+  },
+  {
+    "release_id": 28770334,
+    "have": 19,
+    "want": 3,
+    "rating_avg": 4.0,
+    "rating_count": 1
+  },
+  {
+    "release_id": 225480,
+    "have": 276,
+    "want": 73,
+    "rating_avg": 4.28,
+    "rating_count": 32
+  },
+  {
+    "release_id": 9539125,
+    "have": 2,
+    "want": 10,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 14460782,
+    "have": 2,
+    "want": 17,
+    "rating_avg": 0.0,
+    "rating_count": 0
+  },
+  {
+    "release_id": 88870,
+    "have": 79,
+    "want": 105,
+    "rating_avg": 3.59,
+    "rating_count": 17
+  }
+]

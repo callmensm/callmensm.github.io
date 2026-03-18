@@ -1,0 +1,103 @@
+{
+  "France": {
+    "rank": null,
+    "found": false
+  },
+  "Germany": {
+    "rank": null,
+    "found": false
+  },
+  "United Kingdom": {
+    "rank": null,
+    "found": false
+  },
+  "Italy": {
+    "rank": null,
+    "found": false
+  },
+  "Spain": {
+    "rank": null,
+    "found": false
+  },
+  "United States": {
+    "rank": null,
+    "found": false
+  },
+  "Canada": {
+    "rank": null,
+    "found": false
+  },
+  "Brazil": {
+    "rank": null,
+    "found": false
+  },
+  "Japan": {
+    "rank": null,
+    "found": false
+  },
+  "Australia": {
+    "rank": null,
+    "found": false
+  },
+  "Netherlands": {
+    "rank": null,
+    "found": false
+  },
+  "Belgium": {
+    "rank": null,
+    "found": false
+  },
+  "Switzerland": {
+    "rank": null,
+    "found": false
+  },
+  "Sweden": {
+    "rank": null,
+    "found": false
+  },
+  "Norway": {
+    "rank": null,
+    "found": false
+  },
+  "Finland": {
+    "rank": null,
+    "found": false
+  },
+  "Poland": {
+    "rank": null,
+    "found": false
+  },
+  "Russia": {
+    "rank": null,
+    "found": false,
+    "error": true
+  },
+  "Turkey": {
+    "rank": null,
+    "found": false
+  },
+  "Greece": {
+    "rank": null,
+    "found": false
+  },
+  "Portugal": {
+    "rank": null,
+    "found": false
+  },
+  "Mexico": {
+    "rank": null,
+    "found": false
+  },
+  "Argentina": {
+    "rank": null,
+    "found": false
+  },
+  "Chile": {
+    "rank": null,
+    "found": false
+  },
+  "South Africa": {
+    "rank": null,
+    "found": false
+  }
+}

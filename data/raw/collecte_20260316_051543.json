@@ -1,0 +1,1038 @@
+{
+  "artist": "Troublemakers",
+  "timestamp": "2026-03-16T05:15:31.432122",
+  "albums": [
+    {
+      "title": "Doubts and Convictions",
+      "year": 2001,
+      "label": "Guidance Recordings",
+      "youtube_videos": [
+        {
+          "title": "Troublemakers   Doubts & Convictions (2001) [FULL ALBUM]",
+          "views": 59,
+          "likes": 0,
+          "duration": 3497.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=Ei3qyDTGOEw"
+        },
+        {
+          "title": "Troublemakers - Doubts & Convictions",
+          "views": 11762,
+          "likes": 0,
+          "duration": 248.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=wPejPwsthm4"
+        },
+        {
+          "title": "Get Misunderstood",
+          "views": 86776,
+          "likes": 0,
+          "duration": 250.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=ETvT2kmeml4"
+        },
+        {
+          "title": "Troublemakers-Doubts & Convictions (Full Album)",
+          "views": 32431,
+          "likes": 0,
+          "duration": 3513.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=aUfxrHMRUZg"
+        },
+        {
+          "title": "Too Old To Die",
+          "views": 21483,
+          "likes": 0,
+          "duration": 289.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=PePX5WGd_vw"
+        }
+      ],
+      "lastfm": {},
+      "discogs": {
+        "results_count": 17,
+        "items": [
+          {
+            "country": "Europe",
+            "year": "2002",
+            "format": [
+              "Vinyl",
+              "LP",
+              "Album"
+            ],
+            "label": [
+              "PIAS France",
+              "PIAS France",
+              "Troublemakers, Inc.",
+              "Guidance Recordings, Inc.",
+              "Optimal Media Production",
+              "Translab"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop"
+            ],
+            "style": [
+              "Instrumental",
+              "Future Jazz",
+              "Trip Hop"
+            ],
+            "id": 1208564,
+            "barcode": [
+              "5 413356 170115",
+              "B262734-01 A1 942.0067.012 PIASF 07LP /A io@TRANSLAB TROUBLEMAKERS",
+              "B262734-01 B1 942.0067.012 PIASF 07LP /B io@TR TROUBLEMAKERS",
+              "B262734-02 C1 942.0067.012 PIASF 07LP /C io@TRanslab TROUBLEMAKERS",
+              "B262734-02 D1 942.0067.012 PIASF 07LP /D io@TRANSLAB TROUBLEMAKERS",
+              "SABAM BIEM",
+              "315 P"
+            ],
+            "master_id": 4689,
+            "master_url": "https://api.discogs.com/masters/4689",
+            "uri": "/release/1208564-Troublemakers-Doubts-Convictions",
+            "catno": "PIASF 067 LP",
+            "title": "Troublemakers - Doubts & Convictions",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/1208564",
+            "community": {
+              "want": 357,
+              "have": 151
+            },
+            "format_quantity": 2,
+            "formats": [
+              {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                  "LP",
+                  "Album"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "US",
+            "year": "2001",
+            "format": [
+              "Vinyl",
+              "LP",
+              "Album"
+            ],
+            "label": [
+              "Guidance Recordings",
+              "Element Music",
+              "33rpm",
+              "Guidance Recordings",
+              "Guidance Recordings, Inc.",
+              "Guidance Recordings, Inc.",
+              "Translab",
+              "Frankford/Wayne Mastering Labs"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic"
+            ],
+            "style": [
+              "House",
+              "Future Jazz",
+              "Trip Hop"
+            ],
+            "id": 113725,
+            "barcode": [
+              "GDRLP-602 ARE 1 1 (indecipherable signature)",
+              "G\u0336D\u0336R\u0336-\u03360\u03368\u03365\u0336 B GDRLP 602 B (indecipherable signature)",
+              "GDRLP2\u03362\u03362\u0336 602 C 1 (indecipherable signature)",
+              "G\u0336D\u0336R\u0336L\u0336P\u0336 \u03360\u03362\u03365\u03361\u0336  GDRLP-602 D  (indecipherable signature)",
+              "G\u0336D\u0336R\u0336L\u0336P\u0336 \u03360\u03368\u03365\u0336 \u0336E\u0336  B\u0336  GDRLP 602 E f/w DS",
+              "GDRLP-602 F RE 1 1 (indecipherable signature)"
+            ],
+            "master_id": 4689,
+            "master_url": "https://api.discogs.com/masters/4689",
+            "uri": "/release/113725-Troublemakers-Doubts-Convictions",
+            "catno": "GDRLP 602",
+            "title": "Troublemakers - Doubts & Convictions",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/113725",
+            "community": {
+              "want": 580,
+              "have": 524
+            },
+            "format_quantity": 3,
+            "formats": [
+              {
+                "name": "Vinyl",
+                "qty": "3",
+                "descriptions": [
+                  "LP",
+                  "Album"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "US",
+            "year": "2001",
+            "format": [
+              "CD",
+              "Album"
+            ],
+            "label": [
+              "Guidance Recordings",
+              "EFA Medien GmbH",
+              "EFA Medien GmbH",
+              "World's Best",
+              "Guidance Recordings, Inc.",
+              "Guidance Recordings, Inc."
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Jazz",
+              "Funk / Soul"
+            ],
+            "style": [
+              "Future Jazz",
+              "Downtempo",
+              "Trip Hop",
+              "Jazz-Funk",
+              "Soul-Jazz"
+            ],
+            "id": 8291,
+            "barcode": [
+              "7 18755 56022 8",
+              "718755560228",
+              "LC 06110"
+            ],
+            "master_id": 4689,
+            "master_url": "https://api.discogs.com/masters/4689",
+            "uri": "/release/8291-Troublemakers-Doubts-Convictions",
+            "catno": "GDRC 602",
+            "title": "Troublemakers - Doubts & Convictions",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/8291",
+            "community": {
+              "want": 59,
+              "have": 282
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Album"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "key_tracks": [
+        {
+          "title": "Get Misunderstood",
+          "youtube_videos": [
+            {
+              "title": "The Troublemakers - Get Misunderstood",
+              "views": 1833255,
+              "likes": 0,
+              "duration": 253.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=uj1QwRAs_Tw"
+            },
+            {
+              "title": "Get Misunderstood",
+              "views": 86776,
+              "likes": 0,
+              "duration": 250.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=ETvT2kmeml4"
+            },
+            {
+              "title": "Troublemakers - Get Misunderstood",
+              "views": 63393,
+              "likes": 0,
+              "duration": 197.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=9GfnGq2x3D4"
+            }
+          ]
+        },
+        {
+          "title": "Noces Africaines",
+          "youtube_videos": [
+            {
+              "title": "Noces Africaines",
+              "views": 5315,
+              "likes": 0,
+              "duration": 109.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=KI4XXEm6CM0"
+            },
+            {
+              "title": "Troublemakers   Doubts & Convictions (2001) [FULL ALBUM]",
+              "views": 59,
+              "likes": 0,
+              "duration": 3497.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=Ei3qyDTGOEw"
+            },
+            {
+              "title": "Fatigue Universelle",
+              "views": 13351,
+              "likes": 0,
+              "duration": 417.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=Z4dPWpCnrQM"
+            }
+          ]
+        },
+        {
+          "title": "Too Old To Die",
+          "youtube_videos": [
+            {
+              "title": "Too Old To Die",
+              "views": 21483,
+              "likes": 0,
+              "duration": 289.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=PePX5WGd_vw"
+            },
+            {
+              "title": "Troublemakers - Too Old To Die (2002)",
+              "views": 106,
+              "likes": 0,
+              "duration": 361.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=Ss2U0i01ixk"
+            },
+            {
+              "title": "The Troublemakers - Too Old To Die",
+              "views": 32649,
+              "likes": 0,
+              "duration": 282.0,
+              "upload_date": "",
+              "url": "https://youtube.com/watch?v=OtC5mn7RFRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stereo Pictures Vol. 2",
+      "year": 2003,
+      "label": "MK2 Music",
+      "youtube_videos": [
+        {
+          "title": "Stereo Pictures Vol. 2",
+          "views": 234,
+          "likes": 0,
+          "duration": 474.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=Zo95TRENZVk"
+        },
+        {
+          "title": "troublemakers 05  k hand   roots",
+          "views": 1547,
+          "likes": 0,
+          "duration": 263.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=n-YN13mo-Jw"
+        },
+        {
+          "title": "Troublemakers - The Big Sea (Funki Porcini)",
+          "views": 114,
+          "likes": 0,
+          "duration": 473.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=g6-UtCJiCSs"
+        },
+        {
+          "title": "DJ Vadim (Stereo Pictures Vol.3) - Intro",
+          "views": 1299,
+          "likes": 0,
+          "duration": 99.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=Rif_gUSkqfY"
+        },
+        {
+          "title": "DJ Vadim - Stereo Pictures Vol. 03 / DJ Food - The Breaks",
+          "views": 437,
+          "likes": 0,
+          "duration": 145.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=xcdwRaUBJtM"
+        }
+      ],
+      "lastfm": {},
+      "discogs": {
+        "results_count": 3,
+        "items": [
+          {
+            "country": "France",
+            "year": "2002",
+            "format": [
+              "CD",
+              "Mixed"
+            ],
+            "label": [
+              "MK2 Music",
+              "Stereo Pictures",
+              "Warner Music France",
+              "MK2 Music",
+              "MK2 Music",
+              "Translab",
+              "VTV Optical Discs"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop"
+            ],
+            "style": [
+              "Acid Jazz",
+              "Downtempo",
+              "Hip Hop"
+            ],
+            "id": 823067,
+            "barcode": [
+              "3 283451 060329",
+              "SACEM SDRM SACD SGDL",
+              "STEREO PICTURES VOL 2",
+              "IFPI LK46",
+              "IFPI 5MC1"
+            ],
+            "master_id": 1773482,
+            "master_url": "https://api.discogs.com/masters/1773482",
+            "uri": "/release/823067-Troublemakers-Stereo-Pictures-Vol-02",
+            "catno": "8345106032",
+            "title": "Troublemakers - Stereo Pictures Vol. 02",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/823067",
+            "community": {
+              "want": 30,
+              "have": 130
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Mixed"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "France",
+            "year": "2002",
+            "format": [
+              "CD",
+              "Mixed"
+            ],
+            "label": [
+              "MK2 Music",
+              "Stereo Pictures",
+              "Warner Music France",
+              "MK2 Music",
+              "MK2 Music",
+              "Translab"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop"
+            ],
+            "style": [
+              "Acid Jazz",
+              "Downtempo",
+              "Hip Hop"
+            ],
+            "id": 15635176,
+            "barcode": [
+              "3 283451 060329",
+              "TROUBLEMAKERS",
+              "IFPI LK46",
+              "IFPI 5M07",
+              "SACEM / SDRM / SACD / SGDL"
+            ],
+            "master_id": 1773482,
+            "master_url": "https://api.discogs.com/masters/1773482",
+            "uri": "/Troublemakers-Stereo-Pictures-Vol-02/release/15635176",
+            "catno": "8345106032",
+            "title": "Troublemakers - Stereo Pictures Vol. 02",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/15635176",
+            "community": {
+              "want": 3,
+              "have": 11
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Mixed"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "US",
+            "year": "2013",
+            "format": [
+              "CD",
+              "Album",
+              "Limited Edition",
+              "Reissue",
+              "Remastered",
+              "Stereo"
+            ],
+            "label": [
+              "Intrada",
+              "Intrada Special Collection",
+              "Intrada Inc.",
+              "Capitol Records, LLC",
+              "Capitol Records, LLC",
+              "EMI Music Licensing",
+              "Screen Gems-Columbia Music, Inc.",
+              "IMC Productions",
+              "Shepperton Studios",
+              "Capitol Records",
+              "Intrada",
+              "Joe Tarantino Mastering",
+              "designWELL",
+              "Disc Makers",
+              "Disc Makers"
+            ],
+            "type": "release",
+            "genre": [
+              "Non-Music",
+              "Stage & Screen"
+            ],
+            "style": [
+              "Soundtrack",
+              "Score",
+              "Dialogue"
+            ],
+            "id": 7891068,
+            "barcode": [
+              "7 20258 5228 2 5",
+              "720258522825",
+              "IFPI LZ73",
+              "IFPI ALK08",
+              "MWL0295 DISC MAKERS",
+              "IFPI LZ73",
+              "IFPI ALK11",
+              "MWL0296 DISC MAKERS",
+              "BMI"
+            ],
+            "master_id": 933606,
+            "master_url": "https://api.discogs.com/masters/933606",
+            "uri": "/release/7891068-Frank-Cordell-Cromwell-Original-Motion-Picture-Soundtrack",
+            "catno": "Special Collection Volume 228",
+            "title": "Frank Cordell - Cromwell (Original Motion Picture Soundtrack)",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/7891068",
+            "community": {
+              "want": 29,
+              "have": 64
+            },
+            "format_quantity": 2,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                  "Album",
+                  "Limited Edition",
+                  "Reissue",
+                  "Remastered",
+                  "Stereo"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "key_tracks": []
+    },
+    {
+      "title": "Express Way",
+      "year": 2004,
+      "label": "Blue Note",
+      "youtube_videos": [
+        {
+          "title": "Troublemakers - Express Way - full album",
+          "views": 1768,
+          "likes": 0,
+          "duration": 4488.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=xuP4X4BtZiY"
+        },
+        {
+          "title": "Highway Blues",
+          "views": 2815,
+          "likes": 0,
+          "duration": 272.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=-Wf4ojFkTcw"
+        },
+        {
+          "title": "Race Records (feat. The Gift of Gab)",
+          "views": 5368,
+          "likes": 0,
+          "duration": 261.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=9REoUPlUT40"
+        },
+        {
+          "title": "Lemon",
+          "views": 21582,
+          "likes": 0,
+          "duration": 278.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=1regIYSwejg"
+        },
+        {
+          "title": "All We Love",
+          "views": 6562,
+          "likes": 0,
+          "duration": 293.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=gi63n16VzCI"
+        }
+      ],
+      "lastfm": {},
+      "discogs": {
+        "results_count": 9,
+        "items": [
+          {
+            "country": "Europe",
+            "year": "2004",
+            "format": [
+              "Vinyl",
+              "LP",
+              "Album"
+            ],
+            "label": [
+              "Blue Note",
+              "Trouble Studio",
+              "L'immeuble, Marseille",
+              "Accompong Compound",
+              "Trouble Studio",
+              "L'immeuble, Marseille",
+              "Marwan Manley Mastering",
+              "EMI",
+              "EMI",
+              "Blue Note",
+              "Blue Note",
+              "EMI Music France",
+              "Capitol Records, Inc."
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop",
+              "Jazz"
+            ],
+            "style": [
+              "Downtempo",
+              "Acid Jazz",
+              "Trip Hop",
+              "Future Jazz",
+              "Jazzy Hip-Hop",
+              "Conscious"
+            ],
+            "id": 376162,
+            "barcode": [
+              "7 24357 10711 2",
+              "724357107112",
+              "bel BIEM",
+              "LC 0542",
+              "PM 222"
+            ],
+            "master_id": 4720,
+            "master_url": "https://api.discogs.com/masters/4720",
+            "uri": "/Troublemakers-Express-Way/release/376162",
+            "catno": "07243 571071 1 2",
+            "title": "Troublemakers - Express Way",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/376162",
+            "community": {
+              "want": 326,
+              "have": 428
+            },
+            "format_quantity": 3,
+            "formats": [
+              {
+                "name": "Vinyl",
+                "qty": "3",
+                "descriptions": [
+                  "LP",
+                  "Album"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "France",
+            "year": "2004",
+            "format": [
+              "CD",
+              "Album",
+              "DVD",
+              "DVD-Video",
+              "NTSC",
+              "PAL",
+              "Double Sided"
+            ],
+            "label": [
+              "Blue Note",
+              "Blue Note",
+              "Blue Note",
+              "Nada",
+              "Capitol Records",
+              "Capitol Records",
+              "EMI",
+              "EMI",
+              "EMI Uden"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Funk / Soul"
+            ],
+            "style": [
+              "Instrumental",
+              "Downtempo"
+            ],
+            "id": 314402,
+            "barcode": [
+              "7 24357 16410 8",
+              "724357164108",
+              "0542",
+              "03098",
+              "PM 518",
+              "bel / BIEM",
+              "7246 571640 2 3",
+              "724359971599",
+              "EMI UDEN 5716402 @ 1",
+              "IFPI L046",
+              "ifpi 1548",
+              "ifpi 157C",
+              "ifpi 158D"
+            ],
+            "master_id": 4720,
+            "master_url": "https://api.discogs.com/masters/4720",
+            "uri": "/release/314402-Troublemakers-Express-Way",
+            "catno": "7243 5 71641 0 8",
+            "title": "Troublemakers - Express Way",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/314402",
+            "community": {
+              "want": 24,
+              "have": 296
+            },
+            "format_quantity": 2,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Album"
+                ]
+              },
+              {
+                "name": "DVD",
+                "qty": "1",
+                "descriptions": [
+                  "DVD-Video",
+                  "NTSC",
+                  "PAL",
+                  "Double Sided"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "France",
+            "year": "2004",
+            "format": [
+              "CD",
+              "Album"
+            ],
+            "label": [
+              "Blue Note",
+              "Blue Note",
+              "Blue Note",
+              "EMI",
+              "EMI"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Jazz"
+            ],
+            "style": [
+              "Acid Jazz",
+              "Downtempo",
+              "Electro"
+            ],
+            "id": 516335,
+            "barcode": [
+              "7 24357 19422 8",
+              "EMI UDEN 5716402 @ 1 1-2-5-NL",
+              "IFPI L046",
+              "ifpi 1501",
+              "PM 538",
+              "BEL BIEM",
+              "EMI UDEN 5716402 @1 1-2-2-NL",
+              "ifpi 152D"
+            ],
+            "master_id": 4720,
+            "master_url": "https://api.discogs.com/masters/4720",
+            "uri": "/release/516335-Troublemakers-Express-Way",
+            "catno": "7243 5719422 8",
+            "title": "Troublemakers - Express Way",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/516335",
+            "community": {
+              "want": 29,
+              "have": 252
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Album"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "key_tracks": []
+    },
+    {
+      "title": "My Playlist",
+      "year": 2010,
+      "label": "Wagram Music",
+      "youtube_videos": [
+        {
+          "title": "Troublemaker",
+          "views": 34645253,
+          "likes": 0,
+          "duration": 238.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=sTuMtyFWF1E"
+        },
+        {
+          "title": "The Words I Don't Want To Hear (\ub4e3\uae30 \uc2eb\uc740 \ub9d0)",
+          "views": 309695,
+          "likes": 0,
+          "duration": 206.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=4eUynTWQyFg"
+        },
+        {
+          "title": "Rancid - Trouble Maker [FULL ALBUM]",
+          "views": 1794234,
+          "likes": 0,
+          "duration": 2208.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=PkeApEWU8Pw"
+        },
+        {
+          "title": "Olly Murs - Troublemaker ft. Flo Rida",
+          "views": 248588026,
+          "likes": 0,
+          "duration": 185.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=4aQDOUbErNg"
+        },
+        {
+          "title": "Trouble Maker 'Trouble Maker' M/V",
+          "views": 149387561,
+          "likes": 0,
+          "duration": 260.0,
+          "upload_date": "",
+          "url": "https://youtube.com/watch?v=s-zRAQmKUkI"
+        }
+      ],
+      "lastfm": {},
+      "discogs": {
+        "results_count": 2,
+        "items": [
+          {
+            "country": "France",
+            "year": "2007",
+            "format": [
+              "CD",
+              "Compilation",
+              "Mixed",
+              "Stereo"
+            ],
+            "label": [
+              "Wagram Music",
+              "Wagram Music",
+              "Wagram Music",
+              "Wagram Music S.A.",
+              "Wagram Music S.A.",
+              "Top Master",
+              "SNA",
+              "My Playlist"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop",
+              "Jazz",
+              "Funk / Soul"
+            ],
+            "style": [
+              "Afrobeat",
+              "Hip Hop",
+              "Funk"
+            ],
+            "id": 1479270,
+            "barcode": [
+              "3596971226725",
+              "3 596971 226725",
+              "WAG 672",
+              "BIEM / SABAM",
+              "M0036779 [SNA logo] 1 / 3122672",
+              "ifpi L595",
+              "IFPI 1A15"
+            ],
+            "master_id": 555349,
+            "master_url": "https://api.discogs.com/masters/555349",
+            "uri": "/release/1479270-Troublemakers-My-Playlist-",
+            "catno": "3122672",
+            "title": "Troublemakers - My Playlist ",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/1479270",
+            "community": {
+              "want": 29,
+              "have": 70
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                  "Compilation",
+                  "Mixed",
+                  "Stereo"
+                ]
+              }
+            ]
+          },
+          {
+            "country": "France",
+            "year": "2007",
+            "format": [
+              "CD",
+              "Compilation",
+              "Promo",
+              "Mixed"
+            ],
+            "label": [
+              "Wagram Music",
+              "Wagram Music",
+              "Wagram Music",
+              "Wagram Music S.A.",
+              "Wagram Music S.A.",
+              "SNA"
+            ],
+            "type": "release",
+            "genre": [
+              "Electronic",
+              "Hip Hop",
+              "Jazz",
+              "Funk / Soul"
+            ],
+            "style": [
+              "Afrobeat",
+              "Hip Hop",
+              "Funk"
+            ],
+            "id": 4562733,
+            "barcode": [
+              "3 596971 226756",
+              "3596971226756",
+              "WAG 672",
+              "BIEM / SABAM",
+              "M0036779 SNA 1 / 3122672",
+              "ifpi L595",
+              "IFPI1A15"
+            ],
+            "master_id": 555349,
+            "master_url": "https://api.discogs.com/masters/555349",
+            "uri": "/release/4562733-Troublemakers-My-Playlist",
+            "catno": "3122675",
+            "title": "Troublemakers - My Playlist",
+            "thumb": "",
+            "cover_image": "",
+            "resource_url": "https://api.discogs.com/releases/4562733",
+            "community": {
+              "want": 10,
+              "have": 12
+            },
+            "format_quantity": 1,
+            "formats": [
+              {
+                "name": "CD",
+                "qty": "1",
+                "text": "Card Sleeve",
+                "descriptions": [
+                  "Compilation",
+                  "Promo",
+                  "Mixed"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "key_tracks": []
+    }
+  ],
+  "summary": {
+    "total_streams_estimate": 0,
+    "by_continent": {},
+    "by_year": {
+      "2001": {
+        "album": "Doubts and Convictions",
+        "youtube_views": 152511
+      },
+      "2003": {
+        "album": "Stereo Pictures Vol. 2",
+        "youtube_views": 3631
+      },
+      "2004": {
+        "album": "Express Way",
+        "youtube_views": 38095
+      },
+      "2010": {
+        "album": "My Playlist",
+        "youtube_views": 434724769
+      }
+    }
+  }
+}

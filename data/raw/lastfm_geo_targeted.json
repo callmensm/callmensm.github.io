@@ -1,0 +1,47 @@
+{
+  "France": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "United Kingdom": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Germany": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "United States": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Japan": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Canada": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Belgium": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Switzerland": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  },
+  "Netherlands": {
+    "rank": null,
+    "found": false,
+    "total_artists": 200
+  }
+}

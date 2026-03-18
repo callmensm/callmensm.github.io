@@ -1,0 +1,31 @@
+{
+  "followers": 2459,
+  "monthly_listeners": 15529,
+  "top_cities": [
+    {
+      "city": "Paris",
+      "country": "FR",
+      "listeners": 765
+    },
+    {
+      "city": "Istanbul",
+      "country": "TR",
+      "listeners": 650
+    },
+    {
+      "city": "Athens",
+      "country": "GR",
+      "listeners": 408
+    },
+    {
+      "city": "Berlin",
+      "country": "DE",
+      "listeners": 257
+    },
+    {
+      "city": "Izmir",
+      "country": "TR",
+      "listeners": 188
+    }
+  ]
+}

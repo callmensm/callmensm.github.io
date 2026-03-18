@@ -1,0 +1,66 @@
+{
+  "timestamp": "2026-03-16T05:48:31.638399",
+  "global_scores": {
+    "europe": 50.0,
+    "north_america": 30.0,
+    "asia": 20.0
+  },
+  "albums": [
+    {
+      "album": "Too Old To Die",
+      "year": 2001,
+      "continents": {
+        "europe": 5,
+        "north_america": 3,
+        "asia": 2
+      },
+      "percentages": {
+        "europe": 50.0,
+        "north_america": 30.0,
+        "asia": 20.0
+      }
+    },
+    {
+      "album": "DJ Vadim - Stereo Pictures Vol. 03 / DJ Food - The Breaks",
+      "year": 2003,
+      "continents": {
+        "europe": 5,
+        "north_america": 3,
+        "asia": 2
+      },
+      "percentages": {
+        "europe": 50.0,
+        "north_america": 30.0,
+        "asia": 20.0
+      }
+    },
+    {
+      "album": "Lemon",
+      "year": 2004,
+      "continents": {
+        "europe": 5,
+        "north_america": 3,
+        "asia": 2
+      },
+      "percentages": {
+        "europe": 50.0,
+        "north_america": 30.0,
+        "asia": 20.0
+      }
+    },
+    {
+      "album": "Trouble Maker 'Trouble Maker' M/V",
+      "year": 2010,
+      "continents": {
+        "europe": 5,
+        "north_america": 3,
+        "asia": 2
+      },
+      "percentages": {
+        "europe": 50.0,
+        "north_america": 30.0,
+        "asia": 20.0
+      }
+    }
+  ]
+}
